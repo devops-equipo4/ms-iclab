@@ -1,7 +1,6 @@
-# Getting Started
+# Getting Started --HAY QUE MODIFICAR--
 
-## Windows
-
+## Windowsasd
 ### Compile Code
 * ./mvnw.cmd clean compile -e
 
