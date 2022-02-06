@@ -4,9 +4,6 @@
 ### Compile Code
 * ./mvnw.cmd clean compile -e
 
-
-
-
 ### Test Code
 * ./mvnw.cmd clean test -e
 
