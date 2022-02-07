@@ -1,9 +1,9 @@
-# Getting Started
+# Getting Started --HAY QUE MODIFICAR mas rato--
 
-## Windows
-
+## Windowsasd
 ### Compile Code
 * ./mvnw.cmd clean compile -e
+
 
 ### Test Code
 * ./mvnw.cmd clean test -e
@@ -19,6 +19,8 @@
 * Abrir navegador: http://localhost:8080/rest/mscovid/test?msg=testing
 
 ## Linux
+
+
 
 ### Compile Code
 * ./mvnw clean compile -e
