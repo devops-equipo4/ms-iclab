@@ -2,6 +2,8 @@
 
 ### Endpoint de la aplicaciones
 * curl -X GET 'http://localhost:8082/rest/mscovid/test?msg=testing'
+* curl -X GET 'http://localhost:8082/rest/mscovid/estadoMundial'
+* curl -X GET 'http://localhost:8082/rest/mscovid/estadoPais?pais=chile'
 
 # Jenkins Shared Libraries
 - Jenkins Shared Libraries: https://www.jenkins.io/doc/book/pipeline/shared-libraries/
@@ -12,4 +14,4 @@
 - Configurar _Multibranch Pipeline Job_ o _Pipeline Job_ en Jenkins con el repositorio del proyecto a procesar.
 
 # Repositorio de Jenkins Shared library
-- *[Pipeline pl-iclab - branch: cicd](https://github.com/devops-equipo4/pl-iclab/tree/cicd)
+- [Pipeline pl-iclab - branch: cicd](https://github.com/devops-equipo4/pl-iclab/tree/cicd)
